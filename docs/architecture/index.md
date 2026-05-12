@@ -21,3 +21,4 @@ The architecture domain captures the technical decisions taken for the Mimir reb
 - [14-deployment/](14-deployment/index.md) — Fly.io, AuraDB, CI/CD, secrets.
 - [15-testing/](15-testing/index.md) — client widget/golden tests, server cargo tests.
 - [16-graphql-conventions/](16-graphql-conventions/index.md) — pagination, errors, naming, IDs.
+- [17-known-weaknesses/](17-known-weaknesses/index.md) — v1 limitations, accepted risks, deferred work.

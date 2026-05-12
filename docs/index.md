@@ -177,11 +177,19 @@ docs/
     │   ├── 00-overview.md
     │   ├── 01-client-widget-and-golden.md
     │   └── 02-server-cargo-and-neo4j.md
-    └── 16-graphql-conventions/
+    ├── 16-graphql-conventions/
+    │   ├── index.md
+    │   ├── 00-overview.md
+    │   ├── 01-pagination.md
+    │   ├── 02-errors.md
+    │   ├── 03-naming.md
+    │   └── 04-ids.md
+    └── 17-known-weaknesses/
         ├── index.md
         ├── 00-overview.md
-        ├── 01-pagination.md
-        ├── 02-errors.md
-        ├── 03-naming.md
-        └── 04-ids.md
+        ├── 01-availability.md
+        ├── 02-latency.md
+        ├── 03-reliability.md
+        ├── 04-platform-gaps.md
+        └── 05-operational.md
 ```
